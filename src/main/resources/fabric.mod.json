@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "suiyigenggai",
+  "version": "1.0.0[1.19.2]",
+  "name": "SuiYiGenGai",
+  "description": "随便加了点改了点东西",
+  "authors": [
+    "7777a2333"
+  ],
+  "contact": {
+    "homepage": "https://github.com/7777a2333/SuiYiGenGai",
+    "sources": "https://github.com/7777a2333/SuiYiGenGai"
+  },
+  "license": "GNU GPLv3",
+  "icon": "assets/suiyigenggai/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "github._7777a2333_.suiyigenggai.ExampleMod"
+    ]
+  },
+  "mixins": [
+    "suiyigenggai.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.11",
+    "fabric-api": "*",
+    "minecraft": "~1.19.2",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
