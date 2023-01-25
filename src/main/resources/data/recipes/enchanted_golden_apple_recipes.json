@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:enchanted_golden_apple",
+  "key": {
+    "A": {
+      "item": "minecraft:golden_apple"
+    },
+    "G": {
+      "item": "minecraft:gold_block"
+    }
+  },
+  "pattern": [
+    "GGG",
+    "GAG",
+    "GGG"
+  ],
+  "result": {
+    "count": 8,
+    "item": "minecraft:enchanted_golden_apple"
+  }
+}
