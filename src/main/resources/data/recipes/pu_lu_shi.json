@@ -1,0 +1,16 @@
+{
+  "type": "suiyigenggai:pu_lu_shi",
+  "key": {
+    "K": {
+      "item": "minecraft:stone"
+    }
+  },
+  "pattern": [
+    "KK",
+    "KK"
+  ],
+  "result": {
+    "count": 16,
+    "item": "minecraft:pu_lu_shi"
+  }
+}
