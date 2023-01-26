@@ -18,3 +18,4 @@ Fabric API
 ## 其他
 默认Gradle配置文件使用了BMCLAPI和MCBBS作为下载源
 Gradle里导入了JEI
+数据包部分使用了https://misode.github.io/辅助
