@@ -1,5 +1,7 @@
 {
   "variants": {
-    "": { "model": "suiyigenggai:block/pu_lu_shi" }
+    "": {
+      "model": "suiyigenggai:block/pu_lu_shi"
+    }
   }
 }
