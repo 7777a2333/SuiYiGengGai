@@ -20,7 +20,8 @@ Fabric API
 ## 许可证
 
 采用GNU GPL v3协议分发
-# 其他
+
+## 其他
 
 默认Gradle配置文件使用了BMCLAPI和MCBBS作为下载源
 Gradle里导入了JEI

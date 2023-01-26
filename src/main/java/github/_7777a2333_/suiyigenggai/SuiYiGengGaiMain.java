@@ -6,6 +6,7 @@ import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.minecraft.block.Block;
 import net.minecraft.block.Material;
 import net.minecraft.item.BlockItem;
+import net.minecraft.item.Item;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
 import org.slf4j.Logger;
@@ -15,6 +16,7 @@ public class SuiYiGengGaiMain implements ModInitializer {
 	// 写入日志的Mod名称
 	public static final Logger LOGGER = LoggerFactory.getLogger("SuiYiGengGai");
 	public static final Block PuLuShi = new Block(FabricBlockSettings.of(Material.METAL).strength(4.0f).requiresTool());
+
 
 	@Override
 	public void onInitialize() {
