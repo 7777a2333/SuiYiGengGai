@@ -16,7 +16,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "github._7777a2333_.suiyigenggai.ExampleMod"
+      "github._7777a2333_.suiyigenggai.SuiYiGengGaiMain"
     ]
   },
   "mixins": [
